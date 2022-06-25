@@ -24,6 +24,31 @@
             },
             "imageUrl": "https://www.simplyrecipes.com/thmb/carFI0aWFEzqQkZcWXiMozHXY30=/648x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Easy-Banana-Bread-LEAD-2-66837beab63c495292d89743c6767171.jpg",
             "notes": "Important stuff"
+        },
+        {
+            "name": "Ham and Cheese Toastie",
+            "type": "snack",
+            "directions": "Butter Toast. Put Cheese in. Put ham in. Put together. Toast",
+            "ingredients": [
+                {
+                "name": "Butter",
+                "amount": "5",
+                "unit": "g"
+                },
+                {
+                "name": "Toast",
+                "amount": "2",
+                "unit": "slice"  
+                }
+            ],
+            "tags": ["meaty", "snack", "low effort"],
+            "nutrition": {
+                "kcal": "50",
+                "protein": "60",
+                "sugar": "a lot"
+            },
+            "imageUrl": "https://www.bradyfamily.ie/wp-content/uploads/2018/10/0005_iStock-155388694_super.jpg",
+            "notes": "Important stuff"
         }
     ]
 }
