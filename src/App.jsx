@@ -2,6 +2,7 @@
 import { useState } from "react"
 import Recipe from "./components/recipe/Recipe"
 import recipes from "./recipes.json"
+import "./App.css"
 
 export default function App() {
     
