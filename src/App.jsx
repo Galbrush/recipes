@@ -1,16 +1,16 @@
-import {useState} from "react"
-import Counter from "./Counter";
+
+import Recipe from "./components/recipe/Recipe"
+import recipes from "./recipes.json"
+
 export default function App() {
-    const [count, setCount] = useState(1);
+    
     
     return (
-        <div>
-            <button onClick={()=> setCount(count+1)}/>
-            <Counter value={count}/>
-            <Counter value={count * count}/>
+        <>
+        <Recipe recipe={recipes.recipes[0]}/>                    
 
             
-        </div>
+        </>
         
     )
 } 

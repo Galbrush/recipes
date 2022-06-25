@@ -1,0 +1,29 @@
+{
+    "recipes": [
+        {
+            "name": "Banana Bread",
+            "type": "dessert",
+            "directions": "No need for a mixer for this recipe. Preheat the oven to 175°C. With a wooden spoon, mix butter into the mashed bananas in a large mixing bowl. Mix in the sugar, egg, and vanilla sugar. Sprinkle the Backpulver and salt over the mixture and mix in. Add the flour last, mix. Pour mixture into a buttered 4x8 inch loaf pan. Bake for 1 hour. Cool on a rack. Remove from pan and slice to serve.",
+            "ingredients": [
+                {
+                "name": "Butter",
+                "amount": "76",
+                "unit": "g"
+                },
+                {
+                "name": "Bananas",
+                "amount": "5",
+                "unit": "pieces"  
+                }
+            ],
+            "tags": ["vegetarian", "dessert", "low effort"],
+            "nutrition": {
+                "kcal": "50",
+                "protein": "60",
+                "sugar": "a lot"
+            },
+            "imageUrl": "https://www.simplyrecipes.com/thmb/carFI0aWFEzqQkZcWXiMozHXY30=/648x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Easy-Banana-Bread-LEAD-2-66837beab63c495292d89743c6767171.jpg",
+            "notes": "Important stuff"
+        }
+    ]
+}
