@@ -1,0 +1,67 @@
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #495867;
+}
+
+.header {
+    text-align: center;
+}
+
+.preparation-info {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-two {
+    display: flex;
+    padding: 3em 0;
+    gap: 3em;
+}
+
+#ingredients {
+    flex: 20;
+}
+
+#directions {
+    flex: 80;
+}
+
+hr {
+    margin: 1em 0;
+    height: 2px;
+    background: #495867;
+    outline: none;
+    border: none;
+
+}
+.border {
+    border: 2px solid #495867;
+    padding: 2em;
+}
+.title {
+    font-size: 3em;
+    color: #495867;
+  }
+
+.cursive {
+    font-style: italic; 
+  }
+
+#nutrition {
+    flex: 50;
+}
+#notes {
+    flex: 50;
+}
+
+#food-img {
+    max-height: 40em;
+    overflow: hidden;
+    object-fit: cover;
+    
+}

@@ -10,7 +10,8 @@ export default function App() {
     const[selectedRecipe, setSelectedRecipe] = useState(recipes.recipes[0])
     
     return (
-        <>
+        <main>
+    
         <select name="Recipes" onChange={(event)=>{setSelectedRecipe(recipes.recipes[event.target.value])}}>
             {
                 recipes.recipes.map((recipe, index) => {
@@ -24,7 +25,7 @@ export default function App() {
 
 
             
-        </>
+        </main>
         
     )
 } 

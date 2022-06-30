@@ -1,8 +1,7 @@
 body {
-  background-color: blue;
+  background-color: #f7f7ff ;
 }
 
-.title {
-  font-size: 3em;
-  color: red;
+main {
+  padding: 0 3em;
 }

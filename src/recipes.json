@@ -14,6 +14,36 @@
                 "name": "Bananas",
                 "amount": "5",
                 "unit": "pieces"  
+                },
+                {
+                "name": "Sugar",
+                "amount": "200",
+                "unit": "g"  
+                },
+                {
+                "name": "Egg",
+                "amount": "1",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Vanilla Sugar",
+                "amount": "1",
+                "unit": "bag"  
+                },
+                {
+                "name": "Baking Powder",
+                "amount": "1",
+                "unit": "bag"  
+                },
+                {
+                "name": "Salt",
+                "amount": "1",
+                "unit": "pinch"  
+                },
+                {
+                "name": "Flower Universal",
+                "amount": "192",
+                "unit": "g"  
                 }
             ],
             "tags": ["vegetarian", "dessert", "low effort"],
