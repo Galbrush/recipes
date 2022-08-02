@@ -79,6 +79,131 @@
             },
             "imageUrl": "https://www.bradyfamily.ie/wp-content/uploads/2018/10/0005_iStock-155388694_super.jpg",
             "notes": "Important stuff"
+        },
+        {
+            "name": "Zucchinistrudel",
+            "type": "meal",
+            "directions": "Preheat oven to 180 degrees Umluft. Chop onions, wash and grate zucchini. Put both in a pan with a lot of olive oil and roast nicely. Add a soup cube, salt and pepper. Let the mixture cool down before adding the eggs, the cheese and the bread-crumbs. Mix together well. Put the mixture into the doe and paint it with an egg. 35 mins in the oven.",
+            "ingredients": [
+                {
+                "name": "Strudelteig",
+                "amount": "1",
+                "unit": "pieces"
+                },
+                {
+                "name": "Zucchini",
+                "amount": "3",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Suppenwürfel",
+                "amount": "1",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Onion",
+                "amount": "1",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Cheese",
+                "amount": "250",
+                "unit": "g"  
+                },
+                {
+                "name": "Egg",
+                "amount": "2",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Olive Oil",
+                "amount": "2",
+                "unit": "tbsp"  
+                },
+                {
+                "name": "Pepper",
+                "amount": "1",
+                "unit": "pinch"  
+                },
+                {
+                "name": "Salt",
+                "amount": "1",
+                "unit": "pinch"  
+                }
+            ],
+            "tags": ["vegetarian", "meal", "mid effort"],
+            "nutrition": {
+                "kcal": "50",
+                "protein": "60",
+                "sugar": "a lot"
+            },
+            "imageUrl": "https://www.gutekueche.at/storage/media/recipe/29346/resp/zucchinistrudel___webp_620_414.webp",
+            "notes": "Important stuff"
+        },
+        {
+            "name": "Carrot-Ginger-Soup",
+            "type": "soup",
+            "directions": "cut and peel onions, garlic and carrots. Peel the ginger and mince it finely. Heat olive oil in a big pot and put onions and garlic in until they are translucent. add carrots and the vegetable soup. Season with salt, pepper and ginger. Let it cook for 10 to 15 minutes until the carrots are soft. Add the juice of one squeezed orange. Blend everything to a creamy soup without visible bits of carrot. if you want - add a dash of creme fraiche. it cannot hurt ;). ",
+            "ingredients": [
+                {
+                "name": "Onion",
+                "amount": "1",
+                "unit": "pieces"
+                },
+                {
+                "name": "Garlic",
+                "amount": "3",
+                "unit": "cloves"  
+                },
+                {
+                "name": "Carrots",
+                "amount": "300",
+                "unit": "g"  
+                },
+                {
+                "name": "Vegetable Soup",
+                "amount": "500",
+                "unit": "ml"  
+                },
+                {
+                "name": "Ginger",
+                "amount": "1",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Orange",
+                "amount": "1",
+                "unit": "pieces"  
+                },
+                {
+                "name": "Olive Oil",
+                "amount": "5",
+                "unit": "tbsp"  
+                },
+                {
+                "name": "Pepper",
+                "amount": "1",
+                "unit": "pinch"  
+                },
+                {
+                "name": "Salt",
+                "amount": "1",
+                "unit": "pinch"  
+                },
+                {
+                "name": "Creme fraiche",
+                "amount": "1",
+                "unit": "tbsp"  
+                }
+            ],
+            "tags": ["vegetarian", "soup", "mid effort"],
+            "nutrition": {
+                "kcal": "50",
+                "protein": "60",
+                "sugar": "a lot"
+            },
+            "imageUrl": "https://images.ichkoche.at/data/image/variations/496x384/2/karotten-ingwer-suppe-rezept-img-19904.jpg",
+            "notes": "Important stuff"
         }
     ]
 }
