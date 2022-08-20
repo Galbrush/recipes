@@ -11,9 +11,9 @@ export default function Recipe({recipe}) {
             <hr/>
             </div>
             <div className="preparation-info">
-                <h3 className="cursive">Serves:</h3>
-                <h3 className="cursive">Prep-Time:</h3>
-                <h3 className="cursive">Cook-Time:</h3>
+                <h3 className="cursive">Serves: {recipe.serves}</h3>
+                <h3 className="cursive">Prep-Time: {recipe.preptime}</h3>
+                <h3 className="cursive">Cook-Time: {recipe.cooktime}</h3>
             	{/* TO DO: 
                     servings, cook time, prep time */}
             </div>

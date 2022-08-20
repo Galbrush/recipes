@@ -3,6 +3,9 @@
         {
             "name": "Banana Bread",
             "type": "dessert",
+            "serves": "10",
+            "preptime": "",
+            "coocktime": "",
             "directions": "No need for a mixer for this recipe. Preheat the oven to 175°C. With a wooden spoon, mix butter into the mashed bananas in a large mixing bowl. Mix in the sugar, egg, and vanilla sugar. Sprinkle the Backpulver and salt over the mixture and mix in. Add the flour last, mix. Pour mixture into a buttered 4x8 inch loaf pan. Bake for 1 hour. Cool on a rack. Remove from pan and slice to serve.",
             "ingredients": [
                 {
@@ -58,6 +61,9 @@
         {
             "name": "Ham and Cheese Toastie",
             "type": "snack",
+            "serves": "",
+            "preptime": "",
+            "coocktime": "",
             "directions": "Butter Toast. Put Cheese in. Put ham in. Put together. Toast",
             "ingredients": [
                 {
@@ -83,6 +89,9 @@
         {
             "name": "Zucchinistrudel",
             "type": "meal",
+            "serves": "",
+            "preptime": "",
+            "coocktime": "",
             "directions": "Preheat oven to 180 degrees Umluft. Chop onions, wash and grate zucchini. Put both in a pan with a lot of olive oil and roast nicely. Add a soup cube, salt and pepper. Let the mixture cool down before adding the eggs, the cheese and the bread-crumbs. Mix together well. Put the mixture into the doe and paint it with an egg. 35 mins in the oven.",
             "ingredients": [
                 {
@@ -143,6 +152,9 @@
         {
             "name": "Carrot-Ginger-Soup",
             "type": "soup",
+            "serves": "",
+            "preptime": "",
+            "coocktime": "",
             "directions": "cut and peel onions, garlic and carrots. Peel the ginger and mince it finely. Heat olive oil in a big pot and put onions and garlic in until they are translucent. add carrots and the vegetable soup. Season with salt, pepper and ginger. Let it cook for 10 to 15 minutes until the carrots are soft. Add the juice of one squeezed orange. Blend everything to a creamy soup without visible bits of carrot. if you want - add a dash of creme fraiche. it cannot hurt ;). ",
             "ingredients": [
                 {
